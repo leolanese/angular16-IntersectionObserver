@@ -1,0 +1,15 @@
+.scroll-area {
+  height: 500px;
+  overflow: auto;
+  width: 100%;
+  border: 1px solid black;
+}
+
+.item {
+  height: 50px;
+  border-bottom: 1px solid #ccc;
+}
+
+.in-viewport {
+  background-color: #bada55;
+}
