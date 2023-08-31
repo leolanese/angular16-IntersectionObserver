@@ -1,4 +1,4 @@
-# angular16-IntersectionObserver
+# Angular (16+) using IntersectionObserver API
 
 #  Intersection Observer
 
